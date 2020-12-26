@@ -28,9 +28,6 @@ CREATE TABLE `liuyan` (
 -- ----------------------------
 -- Records of liuyan
 -- ----------------------------
-INSERT INTO liuyan VALUES ('3', '李玺，你好呀！！！', '19:9');
 INSERT INTO liuyan VALUES ('4', '阿尴尬为分割', '19:17');
-INSERT INTO liuyan VALUES ('5', '危亮，你好帅。', '22:8');
-INSERT INTO liuyan VALUES ('6', '我是危亮爸爸，危亮是我儿子', '13:58');
 INSERT INTO liuyan VALUES ('7', '123123', '11:13');
 INSERT INTO liuyan VALUES ('8', 'hello', '11:15');
